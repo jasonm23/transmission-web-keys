@@ -1,6 +1,6 @@
 # Transmission web keys
 
-This is a drop-in replacement for `/usr/local/share/transmission/web/javascript/transmission.js`
+This is a drop-in replacement for `.../transmission/web/javascript/transmission.js`
 
 It will provide the following keyboard shortcuts:
 
